@@ -1,0 +1,21 @@
+- /config
+  - database.js
+  - stripe.js
+  - cloudinary.js
+- /controllers
+  - // Your controller files (if any)
+- /middlewares
+  - authenticateUser.js
+  - authorizeAdmin.js
+  - errorHandler.js
+  - handleStock.js
+  - sanitizeData.js
+- /models
+  - product.js
+  - user.js
+  - order.js
+- /routes
+  - // Your route files (if any)
+- app.js
+- server.js
+- .env
